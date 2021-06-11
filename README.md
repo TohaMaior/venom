@@ -2,7 +2,7 @@
 ## Проект выполнил: Я
 
 В проекте используются:
-html
-css
-javascript
-normalize
+- html
+- css
+- javascript
+- normalize
